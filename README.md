@@ -40,7 +40,7 @@ Designed to inform decision-making and highlight patterns across various HR func
 
 ### 🌱 About the Author
 
-This dashboard was designed by **Roy Lennic Mwavita**, a data analyst professional passionate about translating routine data into actionable insights for social impact and sustainable development. The project reflects Roy’s ongoing learning journey in data analytics and system design in humanitarian contexts.
+This dashboard was designed by **Roy Lennic Mwavita**, a data analyst professional passionate about translating routine data into actionable insights for social impact and sustainable development. The project reflects Roy’s ongoing learning journey in data analytics and system design.
 
 ---
 
